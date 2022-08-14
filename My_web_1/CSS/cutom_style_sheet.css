@@ -1,0 +1,54 @@
+﻿#topheader {
+ 
+   border-bottom:1px solid #ebebeb;
+   
+}
+
+#topheader a {
+    color:#2c3e50;
+    font-weight:600;
+    font-size:0.89rem;
+}
+
+.container-fluid {
+    padding-left:0;
+    padding-right:0;
+}
+
+nav ul li a {
+    font-size:1.1rem;
+    font-weight:600;
+}
+
+/*start footer*/
+
+.full-footer {
+    background-color:#34495e;
+   
+}
+
+.top-footer p {
+    color:white;
+}
+
+.top-footer a {
+    color:white;
+    font-weight:600;
+}
+
+.top-footer h3 {
+    color:white;
+   
+}
+
+.bottom-footer {
+    background-color:#23313e;
+}
+
+.breadcrumb {
+    background-color:#e9ecef;
+}
+
+
+/*end footer*/
+
